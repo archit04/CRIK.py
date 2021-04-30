@@ -22,11 +22,11 @@ while True:
     
         break
     elif (runs==1):
-        print( "has chosen to rotate the strike. I think it's great to keep rotating the strike because it builds a pressure on the opponent team ")
+        print( name,"has chosen to rotate the strike. I think it's great to keep rotating the strike because it builds a pressure on the opponent team ")
         
     
     elif (runs==2):
-        print(" " )
+        print(name," has scored 2 runs" )
         
    
         
