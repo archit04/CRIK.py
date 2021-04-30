@@ -1,0 +1,47 @@
+import random
+name = input("Enter your name:\t")
+age = int(input("Enter your age:\t"))
+    
+
+
+
+
+while True:
+    randomball =random.randint(1,6)
+
+#for runs in range(1,7):
+    runs = int(input("Enter the runs you score:"))
+
+    print("Number chosen by the bowler:" ,randomball)
+    
+    
+    if (runs==randomball):
+        print("a stunning inswing and the player is out.")
+        print("Number chosen by the bowler:",randomball)
+        print("Alas! you are out")
+    
+        break
+    elif (runs==1):
+        print( "has chosen to rotate the strike. I think it's great to keep rotating the strike because it builds a pressure on the opponent team ")
+        
+    
+    elif (runs==2):
+        print(" " )
+        
+   
+        
+    elif (runs==3):
+        print("A wonderful running between the wickets.")
+    
+    elif(runs==4):
+        print("A massive hit by" ,name)
+    
+    elif(runs==5):
+        print("The umpire has called for a no ball and " ,name, "has hit a massive four")
+   
+    elif(runs==6):
+        print("A wonderful 6 by" ,name, "and it has gone ot of the stands")
+        
+    else:
+        print("This amount of runs can't be scored")
+        
