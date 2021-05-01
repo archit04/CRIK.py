@@ -3,7 +3,7 @@ Ever remember😀 playing Hand cricket ✋🏏 with your batchmates in your scho
 
 what a wonderful time it was.
 
-But unfortunately the pandemic period😷 has left wide apart from our friends.
+But unfortunately the pandemic period😷 has left us wide apart from our friends.
 
 So, to refresh your mood😀 and to jump into the ocean🌊 of your childhood memeories, CRIK.py is there to help you 
 
