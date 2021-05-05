@@ -15,6 +15,6 @@ and whenever you do this, the computer throws a random number
 
 If the number equals the runs you scored then you are declared out.👆
 
-And the game continues until you are declared out.😀
+And if not then, the game continues until you are declared out.😀
 
 HOPE YOU WILL ENJOY THE GAME🔥🔥
